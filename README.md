@@ -1,16 +1,46 @@
-# flutter_calculator
+# 🔢 Flutter Calculator App
 
-A new Flutter project.
+A modern, responsive calculator application built with **Flutter**. It performs basic arithmetic operations and showcases a sleek UI using Material Design principles.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Basic arithmetic operations: `+`, `-`, `×`, `÷`
+- Expression parsing and evaluation using `math_expressions`
+- Clean UI with dark-themed buttons
+- Responsive layout with flexible grid structure
+- Error handling for invalid calculations
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these steps to run the app locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- Flutter SDK installed (≥3.0.0 recommended)
+- Dart SDK installed
+- An IDE (VS Code, Android Studio, etc.)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/flutter_calculator_app.git
+   cd flutter_calculator_app
+
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+
+3. **Run app**
+   ```bash
+   flutter run
+
+## 📸 Screenshots
+
+
+<p>
+  <img align = "left"  src = "https://github.com/user-attachments/assets/9c01e39c-cb19-4ff2-904d-02f971df0ad3" width=22% height=35% >
+
+</p>
+
