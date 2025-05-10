@@ -24,7 +24,7 @@ Follow these steps to run the app locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flutter_calculator_app.git
+   git clone https://github.com/IamSmitChitroda/flutter_calculator.git
    cd flutter_calculator_app
 
 
